@@ -10,11 +10,12 @@
 
 The 'Views URL Alias Filter' module allows views to be filtered by path aliases.
 
-This module is useful if you want to filter your rest export views result
-by URL alias i.e. if you want to pass the URL alias value in views contextual
-filter.
+This module is useful if you want to filter your views
+(rest export, page etc.) result by URL alias i.e. if you want
+to pass the URL alias value in views contextual filter.
 
-The module converts the URL alias passed in query parameter of your REST API
+The module converts the URL alias passed in query parameter
+for your page or REST API
 end-point to it's entity ID and filters the views result based on that.
 This module will give you a provision to choose the following option
 'URL alias to entity ID' from views contextual filter configuration section,
