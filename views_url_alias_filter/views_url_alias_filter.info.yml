@@ -1,0 +1,9 @@
+# Package info
+name: "Views URL Alias Filter"
+description: "This module will give the provision to pass the URL alias value in views arguments."
+type: module
+core: 8.x
+
+# Dependencies
+dependencies:
+  - views
