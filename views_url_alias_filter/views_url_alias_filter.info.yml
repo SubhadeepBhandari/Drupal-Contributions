@@ -6,4 +6,5 @@ core: 8.x
 
 # Dependencies
 dependencies:
+  - drupal:rest
   - views
